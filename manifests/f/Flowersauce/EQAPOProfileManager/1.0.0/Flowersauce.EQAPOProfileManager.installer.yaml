@@ -19,7 +19,6 @@ Installers:
   AppsAndFeaturesEntries:
   - DisplayName: EQM
     Publisher: flowersauce
-    DisplayVersion: 1.0.0
     ProductCode: '{6D118359-E4E3-4921-B3B5-AA38257891CA}'
     UpgradeCode: '{F17D74F4-1E0C-4D8C-A9DC-932088C13821}'
 ManifestType: installer
