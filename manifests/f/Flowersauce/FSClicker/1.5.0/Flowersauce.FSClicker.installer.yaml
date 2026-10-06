@@ -7,7 +7,6 @@ Dependencies:
   PackageDependencies:
   - PackageIdentifier: Microsoft.VCRedist.2015+.x64
 Scope: user
-ElevationRequirement: elevationProhibited
 InstallModes:
 - interactive
 - silent
@@ -16,7 +15,6 @@ UpgradeBehavior: install
 ProductCode: "{138D6623-24C8-5AFB-8DD7-282F23037B20}"
 AppsAndFeaturesEntries:
 - DisplayName: Flori Input
-  DisplayVersion: 1.5.0
   Publisher: Flowersauce
   ProductCode: "{138D6623-24C8-5AFB-8DD7-282F23037B20}"
   UpgradeCode: "{4BF858CE-49AA-4BF7-835C-02A2BF22E706}"
