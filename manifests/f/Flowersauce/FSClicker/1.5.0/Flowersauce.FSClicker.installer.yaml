@@ -7,8 +7,6 @@ Dependencies:
   PackageDependencies:
   - PackageIdentifier: Microsoft.VCRedist.2015+.x64
 Scope: user
-# Temporary diagnostic for #447607; revert before merge.
-ElevationRequirement: elevationRequired
 InstallModes:
 - interactive
 - silent
